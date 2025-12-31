@@ -1,0 +1,11 @@
+web-development-project/
+│
+├── index.html
+├── style.css
+├── script.js
+└── images/
+    ├── hero-bg.jpg
+    ├── html.png
+    ├── css.png
+    ├── js.png
+    └── framework.png
